@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+.env.*
+
+# Keep the example environment file
+!.env.example
+
+# Node
+node_modules/
+
+# Frontend build output
+dist/
+.next/
+out/
+
+# Logs
+*.log
+check_log.txt
+
+# OS files
+.DS_Store
+Thumbs.db
